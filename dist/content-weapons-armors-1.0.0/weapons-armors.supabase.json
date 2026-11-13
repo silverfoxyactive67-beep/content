@@ -1,0 +1,24 @@
+{
+  "title": "Weapons Armors",
+  "slug": "weapons-armors",
+  "content_type": "addon",
+  "version": "1.0.0",
+  "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-weapons-armors-1.0.0/weapons-armors_f1cd6f75.raw",
+  "pack_targets": [
+    {
+      "target": "behavior_packs",
+      "dest_folder": "weapons-armors_f1cd6f75",
+      "raw_file": "weapons-armors_f1cd6f75.raw",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-weapons-armors-1.0.0/weapons-armors_f1cd6f75.raw",
+      "sha256": "4da3271fa54392bfa744d57f67d2c65563e8516a84d36e7aaf733c33d5c0ffca"
+    },
+    {
+      "target": "resource_packs",
+      "dest_folder": "weapons-armors_6a7d8764",
+      "raw_file": "weapons-armors_6a7d8764.raw",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-weapons-armors-1.0.0/weapons-armors_6a7d8764.raw",
+      "sha256": "467288a5de0cc200c1eeb459868301010e47ba13d2ef060548a22f9937285334"
+    }
+  ],
+  "_upload_hint": "gh release upload content-weapons-armors-1.0.0 /tmp/content-dist/weapons-armors/*.raw /tmp/content-dist/weapons-armors/*.zip"
+}

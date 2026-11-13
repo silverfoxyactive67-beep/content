@@ -1,0 +1,24 @@
+{
+  "title": "Aether Moa",
+  "slug": "aether-moa",
+  "content_type": "addon",
+  "version": "1.0.0",
+  "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-aether-moa-1.0.0/aether-moa_fd53f531.raw",
+  "pack_targets": [
+    {
+      "target": "behavior_packs",
+      "dest_folder": "aether-moa_fd53f531",
+      "raw_file": "aether-moa_fd53f531.raw",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-aether-moa-1.0.0/aether-moa_fd53f531.raw",
+      "sha256": "df94f8d81fe59aaa990916c27ed8993e24224aa0694eca89e67eb79869d0b7a9"
+    },
+    {
+      "target": "resource_packs",
+      "dest_folder": "aether-moa_07c5e2b0",
+      "raw_file": "aether-moa_07c5e2b0.raw",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-aether-moa-1.0.0/aether-moa_07c5e2b0.raw",
+      "sha256": "196e0401e18ddfc674a288e28e58bc5d4a55872e1ab5aa349502151ab0b415fa"
+    }
+  ],
+  "_upload_hint": "gh release upload content-aether-moa-1.0.0 /tmp/content-dist/aether-moa/*.raw /tmp/content-dist/aether-moa/*.zip"
+}

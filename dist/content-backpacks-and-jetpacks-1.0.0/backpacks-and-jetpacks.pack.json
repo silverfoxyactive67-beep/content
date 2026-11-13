@@ -1,0 +1,40 @@
+{
+  "name": "Backpacks and Jetpacks",
+  "slug": "backpacks-and-jetpacks",
+  "version": "1.0.0",
+  "packs": [
+    {
+      "pack_index": 0,
+      "source_name": "Backpacks and Jetpacks §6by silverfoxstudio§r",
+      "dest_folder": "backpacks-and-jetpacks_0e1fb703",
+      "target": "behavior_packs",
+      "module_types": [
+        "data",
+        "script"
+      ],
+      "uuid": "0e1fb703-80ff-40cb-a904-51c6044f6ae3",
+      "uuid8": "0e1fb703",
+      "raw_file": "backpacks-and-jetpacks_0e1fb703.raw",
+      "raw_sha256": "4b665c6be3173cf6549da800d9819bf4169712cf1ab4edf5bb8f855f3a3840b4",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-backpacks-and-jetpacks-1.0.0/backpacks-and-jetpacks_0e1fb703.raw",
+      "files": 748,
+      "dirs": 27
+    },
+    {
+      "pack_index": 1,
+      "source_name": "Backpacks and Jetpacks §6by silverfoxstudio§r",
+      "dest_folder": "backpacks-and-jetpacks_f0ca0736",
+      "target": "resource_packs",
+      "module_types": [
+        "resources"
+      ],
+      "uuid": "f0ca0736-c334-48fc-9de1-1ff494220c2e",
+      "uuid8": "f0ca0736",
+      "raw_file": "backpacks-and-jetpacks_f0ca0736.raw",
+      "raw_sha256": "d487c38e698de7844945e2fd830b13e8508d1479b4aa85b449c47c9549a7d70a",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-backpacks-and-jetpacks-1.0.0/backpacks-and-jetpacks_f0ca0736.raw",
+      "files": 1151,
+      "dirs": 28
+    }
+  ]
+}

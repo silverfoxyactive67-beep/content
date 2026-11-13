@@ -1,0 +1,24 @@
+{
+  "title": "Tiny Takeover Mini Mania",
+  "slug": "tiny-takeover-mini-mania",
+  "content_type": "addon",
+  "version": "1.0.0",
+  "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-tiny-takeover-mini-mania-1.0.0/tiny-takeover-mini-mania_65846f66.raw",
+  "pack_targets": [
+    {
+      "target": "behavior_packs",
+      "dest_folder": "tiny-takeover-mini-mania_65846f66",
+      "raw_file": "tiny-takeover-mini-mania_65846f66.raw",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-tiny-takeover-mini-mania-1.0.0/tiny-takeover-mini-mania_65846f66.raw",
+      "sha256": "81ef67ca880bd26fcf52ee722eb14a35862e31fe5d22b25f22be0ae6921205a2"
+    },
+    {
+      "target": "resource_packs",
+      "dest_folder": "tiny-takeover-mini-mania_6e743591",
+      "raw_file": "tiny-takeover-mini-mania_6e743591.raw",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-tiny-takeover-mini-mania-1.0.0/tiny-takeover-mini-mania_6e743591.raw",
+      "sha256": "f7a2365e3ad0d61f83e6c3e2c458eb8bb4a35940a4ce32ec5d7386d061d2f49c"
+    }
+  ],
+  "_upload_hint": "gh release upload content-tiny-takeover-mini-mania-1.0.0 /tmp/content-dist/tiny-takeover-mini-mania/*.raw /tmp/content-dist/tiny-takeover-mini-mania/*.zip"
+}

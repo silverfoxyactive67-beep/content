@@ -1,0 +1,40 @@
+{
+  "name": "Owls",
+  "slug": "owls",
+  "version": "1.0.0",
+  "packs": [
+    {
+      "pack_index": 0,
+      "source_name": "Owls §6by silverfoxstudio§r",
+      "dest_folder": "owls_707d1b97",
+      "target": "behavior_packs",
+      "module_types": [
+        "script",
+        "data"
+      ],
+      "uuid": "707d1b97-0ce6-4bba-983d-f9010d432f0b",
+      "uuid8": "707d1b97",
+      "raw_file": "owls_707d1b97.raw",
+      "raw_sha256": "c9e0d5ce5339e3474a248e75074479cb033937a74787ceee568400b640714e50",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-owls-1.0.0/owls_707d1b97.raw",
+      "files": 87,
+      "dirs": 40
+    },
+    {
+      "pack_index": 1,
+      "source_name": "Owls §6by silverfoxstudio§r",
+      "dest_folder": "owls_47d41fb7",
+      "target": "resource_packs",
+      "module_types": [
+        "resources"
+      ],
+      "uuid": "47d41fb7-92a5-4d95-b977-4980a0f5ce82",
+      "uuid8": "47d41fb7",
+      "raw_file": "owls_47d41fb7.raw",
+      "raw_sha256": "5dc42d24d7844de861f8f8a2faa7dc078fee1632480f3f427a95cdbf6b3446cf",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-owls-1.0.0/owls_47d41fb7.raw",
+      "files": 193,
+      "dirs": 39
+    }
+  ]
+}

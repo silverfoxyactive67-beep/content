@@ -1,0 +1,40 @@
+{
+  "name": "Spark Pets",
+  "slug": "spark-pets",
+  "version": "1.0.0",
+  "packs": [
+    {
+      "pack_index": 0,
+      "source_name": "Spark Pets §6by silverfoxstudio§r",
+      "dest_folder": "spark-pets_4641073a",
+      "target": "behavior_packs",
+      "module_types": [
+        "data",
+        "script"
+      ],
+      "uuid": "4641073a-8041-494e-a69a-1d6d657ca001",
+      "uuid8": "4641073a",
+      "raw_file": "spark-pets_4641073a.raw",
+      "raw_sha256": "4fccca18b2cb0f4af217041e353b6298007abd32d3fc27e418a2d0b8353aebdf",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-spark-pets-1.0.0/spark-pets_4641073a.raw",
+      "files": 223,
+      "dirs": 23
+    },
+    {
+      "pack_index": 1,
+      "source_name": "Spark Pets §6by silverfoxstudio§r",
+      "dest_folder": "spark-pets_61aa0a28",
+      "target": "resource_packs",
+      "module_types": [
+        "resources"
+      ],
+      "uuid": "61aa0a28-2e19-4ed1-95de-deab0c5ce46a",
+      "uuid8": "61aa0a28",
+      "raw_file": "spark-pets_61aa0a28.raw",
+      "raw_sha256": "f18f9e6d84e663db10db5b6d23d283b3d082d32a81e778cb4ef21486e1e5e3c2",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-spark-pets-1.0.0/spark-pets_61aa0a28.raw",
+      "files": 1458,
+      "dirs": 149
+    }
+  ]
+}

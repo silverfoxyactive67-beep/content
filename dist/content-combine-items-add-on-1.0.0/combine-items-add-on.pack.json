@@ -1,0 +1,40 @@
+{
+  "name": "COMBINE ITEMS! Add-On",
+  "slug": "combine-items-add-on",
+  "version": "1.0.0",
+  "packs": [
+    {
+      "pack_index": 0,
+      "source_name": "COMBINE ITEMS! Add-On §6by silverfoxstudio§r",
+      "dest_folder": "combine-items-add-on_59a62de5",
+      "target": "behavior_packs",
+      "module_types": [
+        "data",
+        "script"
+      ],
+      "uuid": "59a62de5-3d20-48d7-b320-22253dafc5fc",
+      "uuid8": "59a62de5",
+      "raw_file": "combine-items-add-on_59a62de5.raw",
+      "raw_sha256": "5fd4bad92da5b3628086e70189108301e893fabffb383391277fce7776bad01b",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-combine-items-add-on-1.0.0/combine-items-add-on_59a62de5.raw",
+      "files": 529,
+      "dirs": 111
+    },
+    {
+      "pack_index": 1,
+      "source_name": "COMBINE ITEMS! Add-On §6by silverfoxstudio§r",
+      "dest_folder": "combine-items-add-on_1b275a14",
+      "target": "resource_packs",
+      "module_types": [
+        "resources"
+      ],
+      "uuid": "1b275a14-2a5e-481a-a6b6-0b5eb6a5a05d",
+      "uuid8": "1b275a14",
+      "raw_file": "combine-items-add-on_1b275a14.raw",
+      "raw_sha256": "752733e60406c413a2ded998884bda296c45d0453212b1a0493a97ac892a86a3",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-combine-items-add-on-1.0.0/combine-items-add-on_1b275a14.raw",
+      "files": 335,
+      "dirs": 42
+    }
+  ]
+}

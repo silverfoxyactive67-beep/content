@@ -1,0 +1,35 @@
+name: Publish releases
+
+on:
+  push:
+    branches:
+      - "**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Publish releases from dist/
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          for dir in dist/content-*-1.0.0; do
+            [ -d "$dir" ] || continue
+            tag="$(basename "$dir")"
+            echo "=== $tag ==="
+            if gh release view "$tag" >/dev/null 2>&1; then
+              echo "Release $tag exists, uploading assets..."
+              gh release upload "$tag" "$dir"/* --clobber
+            else
+              echo "Creating release $tag..."
+              gh release create "$tag" "$dir"/* --title "$tag" --target "${GITHUB_SHA}" --notes "Free add-on release $tag"
+            fi
+          done

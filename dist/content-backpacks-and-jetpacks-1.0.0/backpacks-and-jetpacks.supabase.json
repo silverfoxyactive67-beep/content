@@ -1,0 +1,24 @@
+{
+  "title": "Backpacks and Jetpacks",
+  "slug": "backpacks-and-jetpacks",
+  "content_type": "addon",
+  "version": "1.0.0",
+  "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-backpacks-and-jetpacks-1.0.0/backpacks-and-jetpacks_0e1fb703.raw",
+  "pack_targets": [
+    {
+      "target": "behavior_packs",
+      "dest_folder": "backpacks-and-jetpacks_0e1fb703",
+      "raw_file": "backpacks-and-jetpacks_0e1fb703.raw",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-backpacks-and-jetpacks-1.0.0/backpacks-and-jetpacks_0e1fb703.raw",
+      "sha256": "4b665c6be3173cf6549da800d9819bf4169712cf1ab4edf5bb8f855f3a3840b4"
+    },
+    {
+      "target": "resource_packs",
+      "dest_folder": "backpacks-and-jetpacks_f0ca0736",
+      "raw_file": "backpacks-and-jetpacks_f0ca0736.raw",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-backpacks-and-jetpacks-1.0.0/backpacks-and-jetpacks_f0ca0736.raw",
+      "sha256": "d487c38e698de7844945e2fd830b13e8508d1479b4aa85b449c47c9549a7d70a"
+    }
+  ],
+  "_upload_hint": "gh release upload content-backpacks-and-jetpacks-1.0.0 /tmp/content-dist/backpacks-and-jetpacks/*.raw /tmp/content-dist/backpacks-and-jetpacks/*.zip"
+}

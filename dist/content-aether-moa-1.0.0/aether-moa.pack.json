@@ -1,0 +1,40 @@
+{
+  "name": "Aether Moa",
+  "slug": "aether-moa",
+  "version": "1.0.0",
+  "packs": [
+    {
+      "pack_index": 0,
+      "source_name": "Aether Moa §6by silverfoxstudio§r",
+      "dest_folder": "aether-moa_fd53f531",
+      "target": "behavior_packs",
+      "module_types": [
+        "data",
+        "script"
+      ],
+      "uuid": "fd53f531-d253-4c97-a12d-5b7377712474",
+      "uuid8": "fd53f531",
+      "raw_file": "aether-moa_fd53f531.raw",
+      "raw_sha256": "df94f8d81fe59aaa990916c27ed8993e24224aa0694eca89e67eb79869d0b7a9",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-aether-moa-1.0.0/aether-moa_fd53f531.raw",
+      "files": 46,
+      "dirs": 13
+    },
+    {
+      "pack_index": 1,
+      "source_name": "Aether Moa §6by silverfoxstudio§r",
+      "dest_folder": "aether-moa_07c5e2b0",
+      "target": "resource_packs",
+      "module_types": [
+        "resources"
+      ],
+      "uuid": "07c5e2b0-c5c5-4d2e-9aa5-d024d87aafa3",
+      "uuid8": "07c5e2b0",
+      "raw_file": "aether-moa_07c5e2b0.raw",
+      "raw_sha256": "196e0401e18ddfc674a288e28e58bc5d4a55872e1ab5aa349502151ab0b415fa",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-aether-moa-1.0.0/aether-moa_07c5e2b0.raw",
+      "files": 125,
+      "dirs": 22
+    }
+  ]
+}

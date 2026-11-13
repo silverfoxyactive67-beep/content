@@ -1,0 +1,24 @@
+{
+  "title": "A Minecraft Movie",
+  "slug": "a-minecraft-movie",
+  "content_type": "addon",
+  "version": "1.0.0",
+  "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-a-minecraft-movie-1.0.0/a-minecraft-movie_4022586e.raw",
+  "pack_targets": [
+    {
+      "target": "behavior_packs",
+      "dest_folder": "a-minecraft-movie_4022586e",
+      "raw_file": "a-minecraft-movie_4022586e.raw",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-a-minecraft-movie-1.0.0/a-minecraft-movie_4022586e.raw",
+      "sha256": "50541159c294fdb80e2eab7171822846ab6218ce8d292b9568c77d81d5f7c086"
+    },
+    {
+      "target": "resource_packs",
+      "dest_folder": "a-minecraft-movie_8e3af75d",
+      "raw_file": "a-minecraft-movie_8e3af75d.raw",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-a-minecraft-movie-1.0.0/a-minecraft-movie_8e3af75d.raw",
+      "sha256": "98d35f41a801530a3708ec412efe683ead68fc25b120c3df10e14bbe15e6f44f"
+    }
+  ],
+  "_upload_hint": "gh release upload content-a-minecraft-movie-1.0.0 /tmp/content-dist/a-minecraft-movie/*.raw /tmp/content-dist/a-minecraft-movie/*.zip"
+}

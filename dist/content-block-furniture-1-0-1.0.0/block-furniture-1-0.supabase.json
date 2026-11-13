@@ -1,0 +1,24 @@
+{
+  "title": "Block Furniture 1.0",
+  "slug": "block-furniture-1-0",
+  "content_type": "addon",
+  "version": "1.0.0",
+  "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-block-furniture-1-0-1.0.0/block-furniture-1-0_91022fc4.raw",
+  "pack_targets": [
+    {
+      "target": "behavior_packs",
+      "dest_folder": "block-furniture-1-0_91022fc4",
+      "raw_file": "block-furniture-1-0_91022fc4.raw",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-block-furniture-1-0-1.0.0/block-furniture-1-0_91022fc4.raw",
+      "sha256": "59e5c8fba12107e80323386fafd060565c23ec5bbda168263f1fa96553e98966"
+    },
+    {
+      "target": "resource_packs",
+      "dest_folder": "block-furniture-1-0_379b13eb",
+      "raw_file": "block-furniture-1-0_379b13eb.raw",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-block-furniture-1-0-1.0.0/block-furniture-1-0_379b13eb.raw",
+      "sha256": "3a56ce904d0308b2123d839da68ded4ec2c50652f7e0ea5640189ea8e8ddbfc8"
+    }
+  ],
+  "_upload_hint": "gh release upload content-block-furniture-1-0-1.0.0 /tmp/content-dist/block-furniture-1-0/*.raw /tmp/content-dist/block-furniture-1-0/*.zip"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Spark Pets",
+  "slug": "spark-pets",
+  "content_type": "addon",
+  "version": "1.0.0",
+  "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-spark-pets-1.0.0/spark-pets_4641073a.raw",
+  "pack_targets": [
+    {
+      "target": "behavior_packs",
+      "dest_folder": "spark-pets_4641073a",
+      "raw_file": "spark-pets_4641073a.raw",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-spark-pets-1.0.0/spark-pets_4641073a.raw",
+      "sha256": "4fccca18b2cb0f4af217041e353b6298007abd32d3fc27e418a2d0b8353aebdf"
+    },
+    {
+      "target": "resource_packs",
+      "dest_folder": "spark-pets_61aa0a28",
+      "raw_file": "spark-pets_61aa0a28.raw",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-spark-pets-1.0.0/spark-pets_61aa0a28.raw",
+      "sha256": "f18f9e6d84e663db10db5b6d23d283b3d082d32a81e778cb4ef21486e1e5e3c2"
+    }
+  ],
+  "_upload_hint": "gh release upload content-spark-pets-1.0.0 /tmp/content-dist/spark-pets/*.raw /tmp/content-dist/spark-pets/*.zip"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Gravestones",
+  "slug": "gravestones",
+  "content_type": "addon",
+  "version": "1.0.0",
+  "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-gravestones-1.0.0/gravestones_ecc614ca.raw",
+  "pack_targets": [
+    {
+      "target": "behavior_packs",
+      "dest_folder": "gravestones_ecc614ca",
+      "raw_file": "gravestones_ecc614ca.raw",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-gravestones-1.0.0/gravestones_ecc614ca.raw",
+      "sha256": "886a0f4daf4863a374dd788bf825f1e48ec4ec55fbe58796acbc1f16570f5797"
+    },
+    {
+      "target": "resource_packs",
+      "dest_folder": "gravestones_0f5172fb",
+      "raw_file": "gravestones_0f5172fb.raw",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-gravestones-1.0.0/gravestones_0f5172fb.raw",
+      "sha256": "10a601e4ec37bfdf2e9b22fb03476a8375bc90ebd5b67cb052919b2f3f391220"
+    }
+  ],
+  "_upload_hint": "gh release upload content-gravestones-1.0.0 /tmp/content-dist/gravestones/*.raw /tmp/content-dist/gravestones/*.zip"
+}

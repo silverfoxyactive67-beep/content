@@ -1,0 +1,24 @@
+{
+  "title": "Owls",
+  "slug": "owls",
+  "content_type": "addon",
+  "version": "1.0.0",
+  "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-owls-1.0.0/owls_707d1b97.raw",
+  "pack_targets": [
+    {
+      "target": "behavior_packs",
+      "dest_folder": "owls_707d1b97",
+      "raw_file": "owls_707d1b97.raw",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-owls-1.0.0/owls_707d1b97.raw",
+      "sha256": "c9e0d5ce5339e3474a248e75074479cb033937a74787ceee568400b640714e50"
+    },
+    {
+      "target": "resource_packs",
+      "dest_folder": "owls_47d41fb7",
+      "raw_file": "owls_47d41fb7.raw",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-owls-1.0.0/owls_47d41fb7.raw",
+      "sha256": "5dc42d24d7844de861f8f8a2faa7dc078fee1632480f3f427a95cdbf6b3446cf"
+    }
+  ],
+  "_upload_hint": "gh release upload content-owls-1.0.0 /tmp/content-dist/owls/*.raw /tmp/content-dist/owls/*.zip"
+}

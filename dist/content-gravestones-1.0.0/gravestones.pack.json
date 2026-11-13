@@ -1,0 +1,41 @@
+{
+  "name": "Gravestones",
+  "slug": "gravestones",
+  "version": "1.0.0",
+  "packs": [
+    {
+      "pack_index": 0,
+      "source_name": "Gravestones §6by silverfoxstudio§r",
+      "dest_folder": "gravestones_ecc614ca",
+      "target": "behavior_packs",
+      "module_types": [
+        "data",
+        "script",
+        "script"
+      ],
+      "uuid": "ecc614ca-56c3-4c83-b6d6-b9e18c9f3133",
+      "uuid8": "ecc614ca",
+      "raw_file": "gravestones_ecc614ca.raw",
+      "raw_sha256": "886a0f4daf4863a374dd788bf825f1e48ec4ec55fbe58796acbc1f16570f5797",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-gravestones-1.0.0/gravestones_ecc614ca.raw",
+      "files": 30,
+      "dirs": 17
+    },
+    {
+      "pack_index": 1,
+      "source_name": "Gravestones §6by silverfoxstudio§r",
+      "dest_folder": "gravestones_0f5172fb",
+      "target": "resource_packs",
+      "module_types": [
+        "resources"
+      ],
+      "uuid": "0f5172fb-1c65-42bf-b8e1-3f6886a6b53c",
+      "uuid8": "0f5172fb",
+      "raw_file": "gravestones_0f5172fb.raw",
+      "raw_sha256": "10a601e4ec37bfdf2e9b22fb03476a8375bc90ebd5b67cb052919b2f3f391220",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-gravestones-1.0.0/gravestones_0f5172fb.raw",
+      "files": 78,
+      "dirs": 22
+    }
+  ]
+}

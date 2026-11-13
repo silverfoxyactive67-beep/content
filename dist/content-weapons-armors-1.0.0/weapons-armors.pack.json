@@ -1,0 +1,40 @@
+{
+  "name": "Weapons Armors",
+  "slug": "weapons-armors",
+  "version": "1.0.0",
+  "packs": [
+    {
+      "pack_index": 0,
+      "source_name": "Weapons Armors §6by silverfoxstudio§r",
+      "dest_folder": "weapons-armors_f1cd6f75",
+      "target": "behavior_packs",
+      "module_types": [
+        "data",
+        "script"
+      ],
+      "uuid": "f1cd6f75-ad68-411e-b950-74c6b6ff7035",
+      "uuid8": "f1cd6f75",
+      "raw_file": "weapons-armors_f1cd6f75.raw",
+      "raw_sha256": "4da3271fa54392bfa744d57f67d2c65563e8516a84d36e7aaf733c33d5c0ffca",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-weapons-armors-1.0.0/weapons-armors_f1cd6f75.raw",
+      "files": 348,
+      "dirs": 60
+    },
+    {
+      "pack_index": 1,
+      "source_name": "Weapons Armors §6by silverfoxstudio§r",
+      "dest_folder": "weapons-armors_6a7d8764",
+      "target": "resource_packs",
+      "module_types": [
+        "resources"
+      ],
+      "uuid": "6a7d8764-4149-4b22-bf25-39937763ea9d",
+      "uuid8": "6a7d8764",
+      "raw_file": "weapons-armors_6a7d8764.raw",
+      "raw_sha256": "467288a5de0cc200c1eeb459868301010e47ba13d2ef060548a22f9937285334",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-weapons-armors-1.0.0/weapons-armors_6a7d8764.raw",
+      "files": 781,
+      "dirs": 135
+    }
+  ]
+}

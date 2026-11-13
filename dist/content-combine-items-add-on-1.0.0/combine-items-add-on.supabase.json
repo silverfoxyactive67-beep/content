@@ -1,0 +1,24 @@
+{
+  "title": "COMBINE ITEMS! Add-On",
+  "slug": "combine-items-add-on",
+  "content_type": "addon",
+  "version": "1.0.0",
+  "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-combine-items-add-on-1.0.0/combine-items-add-on_59a62de5.raw",
+  "pack_targets": [
+    {
+      "target": "behavior_packs",
+      "dest_folder": "combine-items-add-on_59a62de5",
+      "raw_file": "combine-items-add-on_59a62de5.raw",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-combine-items-add-on-1.0.0/combine-items-add-on_59a62de5.raw",
+      "sha256": "5fd4bad92da5b3628086e70189108301e893fabffb383391277fce7776bad01b"
+    },
+    {
+      "target": "resource_packs",
+      "dest_folder": "combine-items-add-on_1b275a14",
+      "raw_file": "combine-items-add-on_1b275a14.raw",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-combine-items-add-on-1.0.0/combine-items-add-on_1b275a14.raw",
+      "sha256": "752733e60406c413a2ded998884bda296c45d0453212b1a0493a97ac892a86a3"
+    }
+  ],
+  "_upload_hint": "gh release upload content-combine-items-add-on-1.0.0 /tmp/content-dist/combine-items-add-on/*.raw /tmp/content-dist/combine-items-add-on/*.zip"
+}

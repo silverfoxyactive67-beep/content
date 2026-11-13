@@ -1,0 +1,40 @@
+{
+  "name": "A Minecraft Movie",
+  "slug": "a-minecraft-movie",
+  "version": "1.0.0",
+  "packs": [
+    {
+      "pack_index": 0,
+      "source_name": "A Minecraft Movie §6by silverfoxstudio§r",
+      "dest_folder": "a-minecraft-movie_4022586e",
+      "target": "behavior_packs",
+      "module_types": [
+        "data",
+        "script"
+      ],
+      "uuid": "4022586e-94ef-4d55-8e2a-dc3e23eee8b5",
+      "uuid8": "4022586e",
+      "raw_file": "a-minecraft-movie_4022586e.raw",
+      "raw_sha256": "50541159c294fdb80e2eab7171822846ab6218ce8d292b9568c77d81d5f7c086",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-a-minecraft-movie-1.0.0/a-minecraft-movie_4022586e.raw",
+      "files": 113,
+      "dirs": 17
+    },
+    {
+      "pack_index": 1,
+      "source_name": "A Minecraft Movie §6by silverfoxstudio§r",
+      "dest_folder": "a-minecraft-movie_8e3af75d",
+      "target": "resource_packs",
+      "module_types": [
+        "resources"
+      ],
+      "uuid": "8e3af75d-bde4-471d-8b09-a6e7245741c0",
+      "uuid8": "8e3af75d",
+      "raw_file": "a-minecraft-movie_8e3af75d.raw",
+      "raw_sha256": "98d35f41a801530a3708ec412efe683ead68fc25b120c3df10e14bbe15e6f44f",
+      "ps4_raw_url": "https://github.com/silverfoxyactive67-beep/content/releases/download/content-a-minecraft-movie-1.0.0/a-minecraft-movie_8e3af75d.raw",
+      "files": 469,
+      "dirs": 44
+    }
+  ]
+}
